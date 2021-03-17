@@ -47,4 +47,4 @@ class HomePage(models.Model):
         return "body"
 
     def hello(self):
-        return "hello"
+        return "helloooo"
